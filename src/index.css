@@ -25,9 +25,10 @@
   }
 }
 
-/* test change */
+/* test changes */
 p {
   line-height: 1.75;
+  font-family: sans-serif;
 }
   
 * {
