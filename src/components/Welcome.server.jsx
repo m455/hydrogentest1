@@ -139,7 +139,7 @@ export default function Welcome() {
           Hello, Hydrogen
         </h1>
         <p className="text-lg mb-8">
-          Welcome to your custom storefront. Let&rsquo;s get building.
+          Welcome to your custom thingy. Let&rsquo;s get building.
         </p>
         <div className="flex flex-col lg:flex-row justify-center items-center gap-8 text-gray-700">
           <DocsButton
