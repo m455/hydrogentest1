@@ -138,7 +138,7 @@ export default function Welcome() {
         <h1 className="font-extrabold mb-4 text-5xl md:text-7xl">
           Hello, Hydrogen
         </h1>
-        <p className="text-lg mb-8">
+        <p className="text-lg mb-8 rotating">
           Welcome to your custom thingy. Let&rsquo;s get building.
         </p>
         <div className="flex flex-col lg:flex-row justify-center items-center gap-8 text-gray-700">
